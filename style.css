@@ -27,3 +27,9 @@
     -o-transition: opacity 2s;
 }
 
+.galeria input[type=radio] {
+    position: relative;
+    top: 370px;
+    margin-left: 40px; 
+}
+
