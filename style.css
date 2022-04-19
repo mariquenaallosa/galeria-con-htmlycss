@@ -4,3 +4,11 @@
     box-sizing: border-box;
     background-color: #222
 }
+.galeria {
+    background-color: #fff;
+    margin: 5em auto;
+    width: 250px;
+    height: 400px;
+    position: relative;
+}
+
